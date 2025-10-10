@@ -18,9 +18,6 @@ Hi, I'm **Daniele**, a passionate **Full Stack Developer** with experience in bu
 - Continuously improve my skills in **full-stack development** and **cloud technologies**.  
 - Deliver clean, maintainable, and scalable code in every project.  
 
-🌐 **Let's Connect:**  
-I'm always excited to connect with like-minded developers, share knowledge, and collaborate on innovative projects.
-
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/daniele-spina-949911103/">
