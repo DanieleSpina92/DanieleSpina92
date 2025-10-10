@@ -1,5 +1,26 @@
-#  About Me:
-Hi, I am Daniele, <br>Full Stack Developer
+# 👋 About Me
+
+Hi, I'm **Daniele**, a passionate **Full Stack Developer** with experience in building dynamic, responsive, and scalable web applications. I enjoy turning ideas into functional, elegant digital solutions.  
+
+💡 **What I Do:**  
+- Develop full-stack web applications using **JavaScript, TypeScript, React, and Node.js**.  
+- Work with **Java, Spring Boot, Hibernate, and SQL** for backend development.  
+- Build and optimize **Python applications** with **FastAPI, NumPy, Pandas, and SQLAlchemy**.  
+- Create responsive UI with **HTML, CSS, Bootstrap, and Material-UI**.  
+
+🚀 **My Interests:**  
+- Exploring new technologies and frameworks.  
+- Solving complex problems and optimizing performance.  
+- Contributing to **open-source projects** and collaborating with talented teams.  
+
+🎯 **Goals:**  
+- Grow as a software engineer while working on impactful projects.  
+- Continuously improve my skills in **full-stack development** and **cloud technologies**.  
+- Deliver clean, maintainable, and scalable code in every project.  
+
+🌐 **Let's Connect:**  
+I'm always excited to connect with like-minded developers, share knowledge, and collaborate on innovative projects.
+
 
 ## 🌐 Socials:
 <a href="https://www.linkedin.com/in/daniele-spina-949911103/">
