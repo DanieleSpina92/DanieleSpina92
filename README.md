@@ -6,6 +6,11 @@ Hi, I am Daniele, <br>Full Stack Developer
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
+## 🌐 Education
+
+- ![Bachelor](https://img.shields.io/badge/Bachelor-Computer%20Science-blue?style=for-the-badge) **Bachelor's Degree in Computer Science** – [University Name] (Year XXXX)
+- ![Master](https://img.shields.io/badge/Master-Computer%20Science-green?style=for-the-badge) **Master's Degree in [Course Name]** – [University Name] (Year XXXX)
+
 
 # 💻 Tech Stack:
 
