@@ -1,5 +1,2 @@
-## About Me:
-
-# Hi, I am Daniele, 
-
-Full Stack Developer
+#  About Me:
+Hi, I am Daniele, <br>Full Stack Developer
